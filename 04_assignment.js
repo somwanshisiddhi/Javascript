@@ -1,0 +1,13 @@
+let s=20;
+s+=10;
+console.log(s); 
+s-=5;
+console.log(s);
+s*=2;
+console.log(s);
+s/=4;
+console.log(s);
+s**=3;
+console.log(s);
+s%=3;
+console.log(s);
