@@ -1,0 +1,7 @@
+const prompt=require("prompt-sync")();
+
+let flowers=["sunflower","tulipse","lotus"];
+for(let flower of flowers)
+{
+   console.log(flower);
+} 
